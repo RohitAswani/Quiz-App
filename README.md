@@ -1,0 +1,2 @@
+# Quiz-App
+It is an android based project with the help of this project students can learn through quiz. In this you can feed your own type of quiz and can access everytime you need.JAVA,xml are used to built this project. The main objective of "Quiz Contest" is to facilitate a user friendly environment for  all users and reduces the manual effort. In past days quiz is conducted manually but in further resolution  of the technology we are able to generate the score and pose the queries automatically.
